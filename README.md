@@ -1,6 +1,6 @@
 # Dfkernel on mybinder.org
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/colinjbrown/dfexamples/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dataflownb/dfexamples/master)
 
 An example of using dfkernel on [mybinder.org](https://mybinder.org/).
 
